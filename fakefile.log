@@ -235,3 +235,4 @@ fixed typo in readme file
 1996-07-13T04:56:37 : ```
 Fixed bug in function X by updating line Y in file Z.
 ```
+1994-10-02T03:50:11 : Fixed Type Error in `calculate_pi()` Function (#273)
