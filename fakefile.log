@@ -147,3 +147,4 @@ Fixed type hinting for improved code readability (#1234)
 1996-12-31T03:23:14 : `Fixed bug in login functionality by updating `authenticator.py` line 100.`
 1982-09-25T02:09:58 : Fixed bug in `login` function to properly handle invalid credentials (#2345)
 1971-11-05T02:07:04 : Fixed type hinting for improved code readability (#32)
+1986-12-11T22:03:43 : Fixed bug related to edge case in `models.py` by updating `if __name__ == "__main__":` to `if __name__ == "main":`.
