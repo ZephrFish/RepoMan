@@ -247,3 +247,4 @@ Fixed bug in function X by updating line Y in file Z.
 (cosmetic)
 1972-10-05T17:10:31 : Fixed bug in `calculate_pi` function to improve accuracy (#1234)
 1990-07-26T01:16:00 : Fixed bug in function `foobar()` by updating `bar` argument validation (#1234)
+1981-05-03T20:37:08 : Fixed bug in `calculator` module by updating calculation logic to account for rounding errors (#542).
