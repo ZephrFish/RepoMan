@@ -230,3 +230,4 @@ fixed typo in readme file
 1998-12-02T11:30:35 : Fixed bug in `calculator` module to correctly handle input of negative numbers (#1234).
 1987-08-24T08:56:32 : Fixed bug in login functionality to ensure secure user authentication (#345)
 1994-06-09T23:17:59 : Fixed bug in `login.py` by updating `username_field` to `text`.
+1979-12-20T05:37:32 : Fixed bug in function `login()` by updating condition `if username == 'admin':` to `if username == 'admin' or username == 'root':`. (#1234)
