@@ -226,3 +226,4 @@ Fixed type hinting for `get_user_data()` (#1234)
 
 fixed typo in readme file
 1975-10-05T20:31:21 : Fixed bug in `login.py` related to invalid credentials (#1234)
+1974-06-08T12:18:28 : Fixed bug in `login` function to prevent infinite loop (#1234)
