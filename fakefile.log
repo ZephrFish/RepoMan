@@ -228,3 +228,4 @@ fixed typo in readme file
 1975-10-05T20:31:21 : Fixed bug in `login.py` related to invalid credentials (#1234)
 1974-06-08T12:18:28 : Fixed bug in `login` function to prevent infinite loop (#1234)
 1998-12-02T11:30:35 : Fixed bug in `calculator` module to correctly handle input of negative numbers (#1234).
+1987-08-24T08:56:32 : Fixed bug in login functionality to ensure secure user authentication (#345)
