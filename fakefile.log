@@ -203,3 +203,4 @@ Fixed bug in login feature by updating logic in `app.py` (#1234)
 1998-12-20T18:10:47 : ```
 Fixed type errors in `calculator.py`
 ```
+1997-04-04T12:40:03 : Fixed bug in `handle_error()` function by adding error handling code (#234)
