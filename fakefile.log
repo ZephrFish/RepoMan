@@ -222,3 +222,6 @@ Fixed type hinting for `get_user_data()` (#1234)
 1970-04-28T16:09:54 : Fixed bug in `model.py` related to edge case with input data.
 1988-01-02T23:56:02 : Fixed bug in `module_name` related to incorrect data type handling (#1234).
 1980-10-04T19:35:14 : Fixed type hinting for improved code readability (#56)
+1985-03-05T03:57:36 : fixed bug in login feature
+
+fixed typo in readme file
