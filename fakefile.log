@@ -205,3 +205,6 @@ Fixed type errors in `calculator.py`
 ```
 1997-04-04T12:40:03 : Fixed bug in `handle_error()` function by adding error handling code (#234)
 1998-01-07T21:31:28 : Fixed typo in `main.py` (#425)
+1994-05-02T06:23:50 : ```
+Fixed type hinting for `get_user_data()` (#1234)
+```
