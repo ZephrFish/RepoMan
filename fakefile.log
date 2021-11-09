@@ -44,3 +44,4 @@ Renamed variable for consistency
 2022-07-27T11:22:18 : fixed bug in `calculate_pi` function (#572)
 2001-01-24T06:35:58 : Fixed type hints for improved readability (#345)
 2010-03-24T14:48:09 : fixed bug in login feature (#1234)
+2021-11-09T15:26:01 : Fixed bug in `calculator.py` that caused incorrect calculations with large numbers. (#1234)
