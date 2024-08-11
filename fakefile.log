@@ -2,3 +2,4 @@
 2024-03-23 00:00:00: fixed bug: corrected type hinting in function `foo` to match type of input parameter `bar` (#1234)
 2023-02-01 00:00:00: Fixed bug in login functionality (#1234)
 2023-02-22 00:00:00: Fixed bug in function `handle_error()` by adding error handling logic (#1234).
+2024-08-12 00:00:00: Fixed typo in `readme.md` (#67)
