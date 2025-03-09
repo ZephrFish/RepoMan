@@ -47,7 +47,7 @@ It facilitates the generation of repositories with structured content, commits w
    pip install -r requirements.txt
    ```
 3. Create a `vars.toml` configuration file:
-   ```toml
+  ```toml
 GITHUB_USERNAME = "USERNAME" # Username for whatever account you're writing to
 GITHUB_TOKEN = "CLASSIC GIT TOKEN" # Get git token from developer settings in github 
 OLLAMA_MODEL = "llama2"  # Change to "llama2", "gemma", etc.
