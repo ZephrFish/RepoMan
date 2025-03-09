@@ -2,7 +2,7 @@
 
 ## Overview
 
-Repoman is a command-line tool designed to automate the creation, modification, and management of Git repositories. I created it as I wanted to see how do-able it was to create legimate looking commit history but as you'll see with this repo(pay attention to the commit history and `fakefile.log`) it sort of went off the rails a little bit.
+Repoman is a command-line tool designed to automate the creation, modification, and management of Git repositories. I created it as I wanted to see how do-able it was to create legitimate looking commit history, but as you'll see with this repo(pay attention to the commit history and `unhinged.log`), it sort of went off the rails a little bit.
 
 It facilitates the generation of repositories with structured content, commits with backdated timestamps, and AI-generated commit messages to simulate realistic development activity. The tool can also modify commit history and rollback changes, making it useful for research, testing, and controlled environments.
 
