@@ -1,0 +1,5 @@
+GITHUB_USERNAME = "USERNAME" # Username for whatever account you're writing to
+GITHUB_TOKEN = "CLASSIC GIT TOKEN" # Get git token from developer settings in github 
+OLLAMA_MODEL = "llama2"  # Change to "llama2", "gemma", etc.
+GIT_USER_NAME = "GIT NAME" # Username variable for git config
+GIT_USER_EMAIL = "EMAIL" # email variable for git config
